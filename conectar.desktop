@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0  
+Exec=/home/cabelo/conectar/conectar.sh
+Name=Conectar 3G
+GenericName=Conectar
+Comment=Conectar 3G Vivo
+Encoding=UTF-8
+Terminal=true  
+Type=Application
+Categories=Application;Network;
+Icon=/home/cabelo/ecoop-django/vivo_icone.png
